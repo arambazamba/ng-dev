@@ -1,6 +1,6 @@
 # Angular Single Page Application (SPA) Development
 
-Companion Material for Angular Developer Basics by [Alexander Kastil](https://github.com/arambazamba) containing:
+Companion Material for Class Delivery by [Alexander Kastil](https://www.linkedin.com/in/alexander-kastil-3bb26511a/) containing:
 
 - [Requirements / Tooling](./Tooling)
   - [Git & GitHub Basics](./Tooling/01-Github)
